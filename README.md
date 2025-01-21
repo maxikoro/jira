@@ -21,8 +21,8 @@
 A step by step series of examples that tell you how to get a development env running.
 
 ```
-git clone https://github.com/maxikoro/myjira.git
-cd myjira
+git clone https://github.com/maxikoro/jira.git
+cd jira
 docker compose up -d
 ```
 
